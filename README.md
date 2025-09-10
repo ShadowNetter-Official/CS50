@@ -14,7 +14,7 @@ A repo archiving my assignments for **CS50X**
 
 * Starting from Scratch
     
-    A simple game where you're a car and you have to dodge cones using the arrow keys.
+    A simple game where you're a car and you have to dodge cones using the arrow keys using Scratch.
 
 <h3>Week 1</h3>
 
