@@ -44,7 +44,7 @@ A repo archiving my journey through **CS50X**
 
 <h3>Week 2</h3>
 
-* Exercises
+* Practice Exercises
 
     * Arrays
         
