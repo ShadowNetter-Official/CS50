@@ -51,3 +51,7 @@ A repo archiving my journey through **CS50X**
         Print an array where each value is double the previous
 
         Check if an array is in alphabetical order
+
+    * Functions
+        
+        Verify if given lengths can form a triangle
