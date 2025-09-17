@@ -55,3 +55,13 @@ A repo archiving my journey through **CS50X**
     * Functions
         
         Verify if given lengths can form a triangle
+
+* Assignments
+
+    * Scrabble
+        
+        Calculate scrabble score from input
+
+    * Readability
+
+        Calculate a text's grade level
