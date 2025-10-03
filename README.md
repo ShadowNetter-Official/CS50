@@ -65,3 +65,25 @@ A repo archiving my journey through **CS50X**
     * Readability
 
         Calculate a text's grade level
+
+<h3>Week 3</h3>
+
+* Practice
+
+    * Collatz
+        
+        The Collatz Conjecture in C
+
+* Assignments
+
+    * Plurality
+
+        Plurality vote in C
+
+    * Sort
+
+        Identify sorting algorithms
+
+    * Runoff
+
+        Runoff vote in C

@@ -1,0 +1,37 @@
+sort1 uses: bubble sort
+
+How do you know?:
+
+worst case (reversed50000.txt) 5.143s
+best case (sorted50000.txt) 0.488s
+
+From the results, we can see that sort1 performs worse than sort2 so it can't be merge sort
+since it's not the fastest. It performs similar to sort3, but, in the best case (sorted50000.txt) it performs a lot
+faster which is a characteristic of bubble sort because:
+big O of bubble sort is n²
+and Omega of bubble sort is n
+
+sort2 uses: merge sort
+
+How do you know?:
+
+worst case (reversed50000.txt) 0.584s
+best case (sorted50000.txt) 0.560s
+
+From the results, we can see that sort2 is a lot faster than the other programs, which would be the case if it used merge sort
+because:
+big O of merge sort is n log n
+and Omega of merge sort is n log n
+
+sort3 uses: selection sort
+
+How do you know?:
+
+worst case (reversed50000.txt) 4.357s
+best case (sorted50000.txt) 3.373s
+
+From the results, we can see that sort3 performs worse than sort2 so it can't be merge sort
+since it's not the fastest. It's worst and best case runtimes are similar which would be the case if sort3 used
+selection sort because:
+big O of selection sort is n²
+and Omega of selection sort is n²
