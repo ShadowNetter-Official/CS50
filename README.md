@@ -87,3 +87,11 @@ A repo archiving my journey through **CS50X**
     * Runoff
 
         Runoff vote in C
+
+<h3>Week 4</h3>
+
+* Practice
+
+    * PDF
+        
+        Check if a file is a PDF using byte signatures
