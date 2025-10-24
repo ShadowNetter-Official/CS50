@@ -95,3 +95,13 @@ A repo archiving my journey through **CS50X**
     * PDF
         
         Check if a file is a PDF using byte signatures
+
+* Assignments
+
+    * Filter
+        
+        Create various image filters
+
+    * Recover
+
+        Recover JPEG files from input file
